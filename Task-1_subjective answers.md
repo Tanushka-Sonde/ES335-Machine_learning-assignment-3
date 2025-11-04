@@ -72,9 +72,11 @@ Smooth convergence and consistent validation trends, showing effective pattern l
 
 
 CATEGORY I
+
 ![alt text](image.png)
 
 CATEGORY II
+
 ![alt text](image-1.png)
 
 **Interpretation:**
@@ -101,4 +103,5 @@ CATEGORY II
 **Conclusion:**
 Structured text (Category II) is more learnable for MLP-based next-word prediction due to its rule-based, repetitive nature and predictable token dependencies.
 Natural language, being context-rich and semantically diverse, demands deeper sequence modeling architectures (e.g., RNNs or Transformers) for effective learning.
+
 
